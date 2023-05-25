@@ -1,5 +1,3 @@
-Pagina Android
-
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Pagina Android**
