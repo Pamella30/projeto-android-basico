@@ -8,7 +8,7 @@
 ![](https://raw.githubusercontent.com/Pamella30/projeto-android-basico/main/androids.png#vitrinedev)
 
 Uma pagina web simples com a historia do mascote do Android.
-Projeto criado do zero usando HTML e CCS. 
+Projeto criado do zero usando HTML e CSS. 
 
 A simple web page with the Android mascot story.
-Project created from scratch using HTML and CCS.
+Project created from scratch using HTML and CSS.
