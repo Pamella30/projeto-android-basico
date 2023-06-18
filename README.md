@@ -1,9 +1,10 @@
-| :placard: Vitrine.Dev |     |
+| 🚀 Vitrine.Dev | | 
 | -------------  | --- |
-| :sparkles: Nome        | **Pagina Android**
+| 📌 Projeto | **Pagina Artigo Android**
 | :label: Tecnologias | HTML e CSS
-| :rocket: URL         | https://github.com/Pamella30/projeto-android-basico
-| :fire: Curso    | https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s
+| :globe_with_meridians: URL |https://projeto-android-basico.vercel.app/
+| :file_folder: Arquivos |  https://github.com/Pamella30/projeto-android-basico
+| :computer: Curso | https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s
 
 ![](https://raw.githubusercontent.com/Pamella30/projeto-android-basico/main/androids.png#vitrinedev)
 
